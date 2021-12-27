@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/controller/A2JConverter.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/controller/FileController.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/controller/J2EConverter.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/model/Class.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/model/Connection.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/model/Slot.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/sample/Controller.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/sample/Main.java" charset="UTF-16" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

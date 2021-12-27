@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="82.0" prefWidth="307.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <center>
+      <VBox prefHeight="54.0" prefWidth="307.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label alignment="CENTER" prefHeight="21.0" prefWidth="307.0" text="Выберите файл в формате .NOX&quot;" textAlignment="CENTER" />
+            <Button fx:id="buttonOpen" mnemonicParsing="false" onAction="#openFile" prefHeight="60.0" prefWidth="306.0" text="Открыть файл" />
+         </children>
+      </VBox>
+   </center>
+</BorderPane>
